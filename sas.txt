@@ -1,0 +1,2 @@
+start /B "VrfsEcFwGf.exe"
+ping -n seconds_of_delay+6 127.0.0.1>nul
